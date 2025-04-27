@@ -1,44 +1,30 @@
-<h1 align="center">Olá, eu sou a Thaiza! 👋</h1>
+# Olá! Eu sou a Thaiza Weert 👋
 
-<p align="center">
-  Apaixonada por tecnologia e sempre em busca de novos conhecimentos! 🚀
-</p>
+🎓 Estudante de Engenharia de Software na Universidade de Brasília (UnB)  
+💻 Apaixonada por tecnologia, desenvolvimento de sistemas e análise de dados  
+🚀 Buscando oportunidades como Desenvolvedora de Sistemas Júnior  
+📚 Atualmente estudando: Python, JavaScript, HTML5, CSS3 e C++
 
----
+## 🚀 Minhas Skills
 
-### 👩‍💻 Sobre mim
-- 🎓 Iniciando minha jornada na tecnologia
-- 🗄️ Tenho interesse especial em **banco de dados**
-- 🌱 Atualmente aprimorando minhas habilidades em **Python** e **Análise de Dados**
-- 💡 Curiosa e sempre disposta a aprender coisas novas
+- Python (Pandas, Matplotlib)
+- HTML5 & CSS3
+- JavaScript (ES6+)
+- C++
+- Git e GitHub
+- Pacote Office (Excel, Word, PowerPoint)
 
----
+## 📈 Projetos em Destaque
 
-### 🚀 Tecnologias que estou estudando
-<div style="display: flex; gap: 10px;">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- [Dashboard CO₂ Global](https://github.com/ThaizaWeert/nomedoprojeto) — Análise de dados de emissão de CO₂ usando Python.
 
-</div>
+## 📫 Como me encontrar
 
----
-
-### 📊 Estatísticas GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaizaWeert&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaizaWeert&layout=compact&langs_count=7&theme=radical"/>
-</div>
+- Email: thaizaweert@gmail.com
+- LinkedIn: [Thaiza R.](https://linkedin.com/in/ThaizaWeert)
+- GitHub: [ThaizaWeert](https://github.com/ThaizaWeert)
 
 ---
 
-### 📫 Como me encontrar
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thaiza%20Weert-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaiza-weert-035264233/)
+_\"A tecnologia move o mundo.\"_ 🌍✨
 
----
-
-<div align="center">
-  ✨ Obrigada pela visita! ✨
-</div>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, eu sou a Thaiza Weert! 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedora+de+Sistemas;Software+Engineering+;Apaixonada+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Color&Pink+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedora+de+Sistemas;Software+Engineering+;Apaixonada+por+Tecnologia" alt="Typing SVG" />
 </p>
 
 ---

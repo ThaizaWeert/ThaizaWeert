@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou a Thaiza Weert! 👩‍💻🚀</h1>
+<h1 align="center">Oi, eu sou a Thaiza Weert! 👩‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedora+de+Sistemas;Software+Engineering+;Apaixonada+por+Tecnologia" alt="Typing SVG" />
@@ -10,8 +10,8 @@
 
 🎓 Estudante de Engenharia de Software na Universidade de Brasília (UnB)  
 💻 Apaixonada por desenvolvimento de sistemas, análise de dados e tecnologia  
-🌱 Atualmente estudando: Python, JavaScript, HTML5, CSS3 e C++  
-🎯 Em busca da minha primeira oportunidade como Desenvolvedora de Sistemas Júnior  
+💫 Atualmente estudando: Python, JavaScript, HTML5, CSS3 e C++  
+​🌠​ Em busca da minha primeira oportunidade como Desenvolvedora de Sistemas Júnior  
 
 ---
 

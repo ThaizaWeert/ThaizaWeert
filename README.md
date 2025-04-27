@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🧁​ Sobre mim
 
 🎓 Estudante de Engenharia de Software na Universidade de Brasília (UnB)  
 💻 Apaixonada por desenvolvimento de sistemas, análise de dados e tecnologia  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🎮 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,7 +45,7 @@
 
 ---
 
-## 📫 Contato
+## ​📓 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-Thaiza%20R.-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ThaizaWeert)
 [![Gmail](https://img.shields.io/badge/-thaizaweert@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaizaweert@gmail.com)

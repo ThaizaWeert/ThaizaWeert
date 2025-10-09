@@ -26,6 +26,12 @@ Atualmente estudando: JAVA em Back
 
 ---
 
+##  Tecnologias e Ferramentas
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)
+
+---
+
 ## ​ Contato
 
 [![LinkedIn](https://img.shields.io/badge/-Thaiza%20R.-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ThaizaWeert)

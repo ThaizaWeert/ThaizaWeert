@@ -26,9 +26,10 @@ Atualmente estudando: JAVA em Back
 
 ---
 
-##  Tecnologias e Ferramentas
+##  Commits
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
 ---
 

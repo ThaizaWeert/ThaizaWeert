@@ -26,15 +26,6 @@ Atualmente estudando: JAVA em Back
 
 ---
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThaizaWeert&show_icons=true&theme=radical" alt="ThaizaWeert GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThaizaWeert&theme=radical" alt="ThaizaWeert GitHub Streak" />
-</p>
-
----
-
 ## ​ Contato
 
 [![LinkedIn](https://img.shields.io/badge/-Thaiza%20R.-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ThaizaWeert)

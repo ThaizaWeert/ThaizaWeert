@@ -1,8 +1,9 @@
-<h1 align="center">Opa, eu sou a Thaiza Weert! </h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=header"/>
+
+<h1 align="center">Oii, eu sou a Thaiza Weert! </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+;Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedora+de+Sistemas;Software+Engineering+;Apaixonada+por+Tecnologia" 
-    alt="Typing SVG" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&color=FF0000&lines=Desenvolvedora+de+Sistemas;Software+Engineering;Apaixonada+por+Tecnologia" alt="Typing SVG" /> 
 </p>
 
 ---
@@ -17,12 +18,11 @@ Atualmente estudando: JAVA em Back
 
 ##  Tecnologias e Ferramentas
 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF0000?logo=openjdk&logoColor=white)
 
 ---
 
@@ -40,6 +40,6 @@ Atualmente estudando: JAVA em Back
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
 </p>
 

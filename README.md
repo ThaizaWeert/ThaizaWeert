@@ -11,8 +11,8 @@
 ## ​ Sobre mim
 
 Estudante de Engenharia de Software na Universidade de Brasília (UnB)  
-Apaixonada por desenvolvimento de sistemas, análise de dados e tecnologia .
-Atualmente estudando: JAVA em Back 
+Apaixonada por desenvolvimento de Sistemas, Aplicações Web e Tecnologia .
+Atualmente estudando: JAVA em Back e sou estagiária na SESAM do TSE. 
 
 ---
 

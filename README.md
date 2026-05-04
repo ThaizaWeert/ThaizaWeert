@@ -28,7 +28,11 @@ Atualmente estudando: JAVA em Back e sou estagiária na SESAM do TSE.
 
 ##  Commits
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thaizaweert&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThaizaWeert/ThaizaWeert/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThaizaWeert/ThaizaWeert/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThaizaWeert/ThaizaWeert/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
